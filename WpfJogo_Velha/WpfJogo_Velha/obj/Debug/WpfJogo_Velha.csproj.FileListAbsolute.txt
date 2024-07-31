@@ -1,0 +1,16 @@
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\bin\Debug\WpfJogo_Velha.exe.config
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\bin\Debug\WpfJogo_Velha.exe
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\bin\Debug\WpfJogo_Velha.pdb
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.csproj.AssemblyReference.cache
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.csproj.SuggestedBindingRedirects.cache
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\MainWindow.g.cs
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\App.g.cs
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha_MarkupCompile.cache
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha_MarkupCompile.lref
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\MainWindow.baml
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.g.resources
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.Properties.Resources.resources
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.csproj.GenerateResource.cache
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.csproj.CoreCompileInputs.cache
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.exe
+P:\2023\DS\WpfJogo_Velha\WpfJogo_Velha\obj\Debug\WpfJogo_Velha.pdb
